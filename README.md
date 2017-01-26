@@ -7,6 +7,7 @@ This project defines implementations and interfaces for use with the Pentaho Met
 - Metadata auditing/governance
 - Provenance diagnostics (missing links, references, files, etc.)
 
+## Wingman test
 
 ### How to build this project
 *This is a maven-based project so you must have it available on your system.*
@@ -102,4 +103,3 @@ pentaho-metaverse
 │   │       └── resources
 │   └── target                     # generated stuff (compiled classes, reports, assembled artifacts, ...)
 ```
-
